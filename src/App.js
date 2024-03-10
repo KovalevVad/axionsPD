@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import './app.css';
+import './App.css';
 import img from './img/heart.svg';
 import img1 from './img/heartRed.svg';
 
